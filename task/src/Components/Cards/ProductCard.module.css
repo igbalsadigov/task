@@ -1,0 +1,17 @@
+.product{
+    background-color: rgb(241, 123, 25);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+    border: 1px solid rgb(44, 4, 4);
+}
+button{
+    padding: 10px;
+    width:50%;
+    margin: 2px;
+    border-radius: 10px;
+    background-color: rgb(4, 241, 32);
+    color: rgb(0, 0, 0);
+}

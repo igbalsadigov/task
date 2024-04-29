@@ -1,0 +1,19 @@
+.Procard{
+    background-color: rgb(39, 90, 90);
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+    width: 90%;
+}
+.Card{
+       background-color: rgb(40, 56, 56);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 100%;
+
+   & img {
+        width: 100%;
+    }
+}

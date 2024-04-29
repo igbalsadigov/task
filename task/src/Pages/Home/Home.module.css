@@ -1,0 +1,20 @@
+.cardproduct {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    width: 60%;
+    justify-content: space-between;
+    padding-bottom: 20px;
+    background-color: rgb(96, 237, 237);
+    p {
+        font-weight: bold;
+        width: 200px;
+        height: 30px;
+    }
+
+    img {
+        width: 150px;
+        height: 150px;
+    }
+}
+
